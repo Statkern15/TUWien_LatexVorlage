@@ -50,10 +50,6 @@ Grundsätzlich empfehlen wir die Verwendung von Overleaf. Die TU Wien stellt all
 Mehr Infos hier: 
 https://de.overleaf.com/edu/tuw#overview
 
-Es ist aber auch möglich die Vorlage mit den üblichen Text Editoren  (siehe Liste unten) zu verwenden. 
-!!!!! TO BE TESTED !!!! ;) 
-Tested: 
-
 ###Grundstruktur
 
 ├── chapters
