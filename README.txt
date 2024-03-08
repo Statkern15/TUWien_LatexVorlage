@@ -95,8 +95,6 @@ E322 - Strömungsmechanik und Wärmeübertragung
 E325 - Mechanik und Mechatronik
 E330 - Managementwissenschaften
 
-To Do: !!! Alle implementieren !!!! ;)
-
 ### Sonstiges 
 -- pagestyles wird für die Kapitel in der Thesis.txt gelöst, für die ersten Inhalte (Eidesstattliche, Abstract) im jeweiligen Dokument, da diese nie eine Seitenzahl haben 
 
